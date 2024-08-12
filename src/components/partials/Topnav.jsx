@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 import axios from "../../utils/Axios";
 
-import noImage from "/noImage.jpg";
+import noImage from "/noImage.webp";
 
 const Topnav = () => {
   const [query, setQuery] = useState("");
