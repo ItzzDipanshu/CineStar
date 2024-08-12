@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import noImage from "/noImage.jpg";
+import noImage from "/noImage.webp";
 
 const HorizontalCards = ({ data }) => {
   // console.log(data);
